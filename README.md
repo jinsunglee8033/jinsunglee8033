@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Jinsung Lee! 
 
-<!--
-**jinsunglee8033/jinsunglee8033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Web Developer at KISS Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin: jinsung-lee-6790b315 GitHub jinsunglee8033
+
+ A little more about me...
+const jin = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, PHP, Java],
+  tools: [Laravel, Symfony, AWS, MYSQL, Boostrap, PHPStorm, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I find joy in creating platforms that introduce efficient processes, allowing users to work conveniently, save time, and accomplish their tasks with ease."
+}
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
